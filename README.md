@@ -1,6 +1,16 @@
-Skylarity.github.io
-===================
+The Portfolio of Skyler Rexroad
+===============================
 
-Portfolio Site
+#### Social Media:
 
-Pretty self-explanatory. This is my portfolio, hosted on GitHub.
+Twitter: [@Skylarity](https://twitter.com/Skylarity)
+
+Tumblr: [Skylarity](http://skylarity.tumblr.com/)
+
+Youtube: [Skylarity](https://www.youtube.com/user/Skylarity)
+
+#### Music:
+
+SoundCloud: [Skylarity](http://soundcloud.com/skylarity)
+
+BandCamp: [Skylarity](https://skylarity.bandcamp.com/)
