@@ -8,6 +8,7 @@ function leftImg() {
 		imgnum = 7;
 	}
 
+    document.getElementById("imagedisplayed").src = "images/placeholder.png";
 	document.getElementById("imagedisplayed").src = "images/gallery/" + imgnum + ".png";
 }
 
@@ -21,5 +22,6 @@ function rightImg() {
 		imgnum = 1;
 	}
 
+    document.getElementById("imagedisplayed").src = "images/placeholder.png";
 	document.getElementById("imagedisplayed").src = "images/gallery/" + imgnum + ".png";
 }
